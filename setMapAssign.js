@@ -72,7 +72,7 @@ console.log(numsOne.concat(numsTwo));
 numsTwo.forEach(n => numsOne.push(n));
 console.log(numsOne);
 
-// Assignment 7:
+// Assignment 8:
 console.log("#".repeat(15));
 
 let n1 = [10, 30, 10, 20];
